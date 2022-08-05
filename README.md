@@ -7,8 +7,8 @@
 | LightOJ | [mdsadi4](https://lightoj.com/user/mdsadi4) | 2 | 
 | Leetcode | [KS_Sadi](https://leetcode.com/KS_Sadi) | 0 | 
 | Toph | [KSSadi](https://toph.co/u/KSSadi) | 10 | 
-| Vjudge | [Sadi015](https://vjudge.net/user/Sadi015) | 28 | 
+| Vjudge | [Sadi015](https://vjudge.net/user/Sadi015) | 30 | 
 | HackerRank | [sadi_cse47](https://www.hackerrank.com/sadi_cse47) | 1 | 
-| Total | | 63 | 
+| Total | | 65 | 
 
 Last Updated: 13 Jan, 2022
